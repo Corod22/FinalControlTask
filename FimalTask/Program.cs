@@ -1,7 +1,4 @@
-﻿Console.WriteLine("Введите размерность массива");
-int n = Convert.ToInt32(Console.ReadLine());
-string[] array = new string[n];
-void FillArray(string[] arr)
+﻿void FillArray(string[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
@@ -40,6 +37,9 @@ void PrintArray(string[] arr)
     }
     Console.Write("]");
 }
+Console.WriteLine("Введите размерность массива");
+int n = Convert.ToInt32(Console.ReadLine());
+string[] array = new string[n];
 FillArray(array);
 PrintArray(NewFillArray(array));
 Console.ReadKey();
