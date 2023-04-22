@@ -4,17 +4,17 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="79040"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2023-04-22 05:57:18 "/>
+        <attribute name="saved" value="2023-04-22 06:45:04 "/>
         <attribute name="created" value="NzkwNDA7U0FOQ0FaOzIwMjMtMDQtMjI7IjAxOjIwOjIzICI7MTg4Ng=="/>
-        <attribute name="edited" value="NzkwNDA7U0FOQ0FaOzIwMjMtMDQtMjI7IjA1OjU3OjE4ICI7MTsyMDEy"/>
+        <attribute name="edited" value="NzkwNDA7U0FOQ0FaOzIwMjMtMDQtMjI7IjA2OjQ1OjA0ICI7MjsyMDA2"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
             <input variable="input n, array"/>
-            <declare name="n=0" type="Integer" array="False" size=""/>
+            <declare name="m=0" type="Integer" array="False" size=""/>
             <for variable="i" start="0" end="array.length" direction="inc" step="1">
-                <if expression="arr[i].length&lt;=3">
+                <if expression="array[i].length&lt;=3">
                     <then>
                         <assign variable="n" expression="n+1"/>
                     </then>
@@ -25,7 +25,7 @@
             <for variable="i" start="0" end="array.length" direction="inc" step="1">
                 <if expression="array{i].length&lt;=3">
                     <then>
-                        <assign variable="rezArr[j]" expression="array[i]&#13;&#10;j++"/>
+                        <assign variable="rezArray[j]" expression="array[i]&#13;&#10;j++"/>
                     </then>
                     <else/>
                 </if>

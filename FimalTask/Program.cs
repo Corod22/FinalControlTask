@@ -8,13 +8,13 @@
 }
 string[] NewFillArray(string[] arr)
 {
-    int n = 0;
+    int m = 0;
     for (int i = 0; i < arr.Length; i++)
     {
         if (arr[i].Length <= 3)
-         n++;
+         m++;
     }
-  string [] rez = new string [n];
+  string [] rez = new string [m];
   int j = 0;
   for (int i = 0;i<arr.Length;i++)
   {
