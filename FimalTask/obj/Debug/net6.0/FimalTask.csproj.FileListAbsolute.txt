@@ -1,0 +1,15 @@
+G:\Git\FinalControlTask\FimalTask\bin\Debug\net6.0\FimalTask.exe
+G:\Git\FinalControlTask\FimalTask\bin\Debug\net6.0\FimalTask.deps.json
+G:\Git\FinalControlTask\FimalTask\bin\Debug\net6.0\FimalTask.runtimeconfig.json
+G:\Git\FinalControlTask\FimalTask\bin\Debug\net6.0\FimalTask.dll
+G:\Git\FinalControlTask\FimalTask\bin\Debug\net6.0\FimalTask.pdb
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.csproj.AssemblyReference.cache
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.AssemblyInfoInputs.cache
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.AssemblyInfo.cs
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.csproj.CoreCompileInputs.cache
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.dll
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\refint\FimalTask.dll
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.pdb
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\FimalTask.genruntimeconfig.cache
+G:\Git\FinalControlTask\FimalTask\obj\Debug\net6.0\ref\FimalTask.dll
